@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on data-driven projects in the Azure cloud focussing on data-engineering and Power BI
-- 💬 Ask me about Power BI, Azure, Business Intelligence and reporting
+- 🔭 I’m currently working on data-driven projects on Azure focussing on data engineering, Python, Databricks and Power BI
+- 💬 Ask me about Power BI, Azure, Business Intelligence and Lakehousing
